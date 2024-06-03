@@ -36,11 +36,20 @@ The Quiz Application is a simple interactive game that presents a series of ques
 
 **Output Structure**
 
+Questions:
+
 ![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/d7cf2187-1916-4430-9f22-1c815dc2c32e)
+
+
+After selecting the option it display the answer is corrcet or Incorrect.
 
 ![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/089ad924-b262-4c91-991d-3d8da4de1e9c)
 
+Correct Answer.
+
 ![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/dbf52cbd-9a7c-4e3b-a2f5-19ad73dd46aa)
+
+At last it will display the score.
 
 ![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/43c97cb2-43a3-4da0-9352-1027007f6ca1)
 
