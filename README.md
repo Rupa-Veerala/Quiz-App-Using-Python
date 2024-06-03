@@ -34,4 +34,9 @@ The Quiz Application is a simple interactive game that presents a series of ques
 
 7. After answering all the questions, a message box will display the final score.
 
+**Output Structure**
+
+![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/d7cf2187-1916-4430-9f22-1c815dc2c32e)
+
+
                                              ****
