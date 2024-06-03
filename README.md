@@ -45,7 +45,7 @@ After selecting the option it display the answer is corrcet or Incorrect.
 
 ![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/089ad924-b262-4c91-991d-3d8da4de1e9c)
 
-Correct Answer.
+InCorrect Answer.
 
 ![image](https://github.com/Rupa-Veerala/Quiz-App-Using-Python/assets/102415108/dbf52cbd-9a7c-4e3b-a2f5-19ad73dd46aa)
 
